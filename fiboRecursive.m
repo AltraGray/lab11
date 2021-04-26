@@ -1,4 +1,5 @@
 function fibonacciNumber = fiboRecursive(n)
+%anythingother
     global count;
     if n == 1
         fibonacciNumber = 1;
