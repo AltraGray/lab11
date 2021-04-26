@@ -1,5 +1,0 @@
-function fibonacciNumber = fiboRecursive(n)
-    global count;
-    if n == 1
-        fibonacciNumber = 1;
-end

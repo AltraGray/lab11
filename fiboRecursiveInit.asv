@@ -1,5 +1,0 @@
-function [f] = fiboRecursiveInit(n)
-    global count;
-    count = 0;
-    f- fiboRec
-end
